@@ -10,6 +10,7 @@ It helps farmers identify leaf diseases automatically from images.
 - Can be extended to mobile or web apps
 
 ---
+---
 
 ## 📂 Dataset Structure
 
